@@ -24,14 +24,11 @@ station_list = [
 measured_list = ['PM25', 'PM10', 'O3', 'CO', 'NO2', 'SO2']
 #measured_list = ['SO2']
 
-
 for del_day in range(1,31):
     ytd = str(date.today()-timedelta(del_day))    # get yesterday's date
     print(ytd)
     meas_dat = []
     meas_dat = pd.DataFrame()
-
-
 
     for meas in measured_list :             # loop over each measurement
 
@@ -46,7 +43,6 @@ for del_day in range(1,31):
             url = 'http://air4thai.pcd.go.th/webV2/history/api/data.php?stationID=' + stn_i + '&param=' + meas + '&type=hr&sdate=' + ytd + '&edate=' + ytd
 
             data = requests.request("GET", url).json()
-
 
             if data['stations'] == []:
                 val_data = data
