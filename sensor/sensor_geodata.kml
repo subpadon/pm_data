@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Highway NO.3902 km.13 +600</name>
+<description>Kanchanaphisek Rd, Bang Khun Thian, Bangkok</description>
+<Point><coordinates>100.414262,13.636514,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Thai Meteorological Department </name>
+<description>Bang Na, Khet Bang Na, Bangkok</description>
+<Point><coordinates>100.605741,13.666113,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>National Housing Authority Klongchan</name>
+<description>Khlong Chan, Khet Bang Kapi, Bangkok</description>
+<Point><coordinates>100.645654,13.779539,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>National Housing  Huaykwang</name>
+<description>Din Daeng, Khet Din Daeng, Bangkok</description>
+<Point><coordinates>100.569206,13.775516,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chulalongkorn Hospital</name>
+<description>Rama IV Rd. Khet Pathum Wan, Bangkok</description>
+<Point><coordinates>100.536443,13.729984,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Thonburi Power Sub-Station</name>
+<description>Intarapitak Rd. Khet Thon Buri, Bangkok</description>
+<Point><coordinates>100.486604,13.727557,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chokchai Police Station</name>
+<description>Lat Phrao Rd. Khet Wang Thonglang, Bangkok</description>
+<Point><coordinates>100.592899,13.795414,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>National Housing Authority Dindaeng</name>
+<description>Din Daeng Rd. Khet Din Daeng, Bangkok</description>
+<Point><coordinates>100.550361,13.762609,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>The Government Public Relations Department </name>
+<description>Phaya Thai, Khet Phaya Thai, Bangkok</description>
+<Point><coordinates>100.540529,13.783143,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bodindecha Sing Singhaseni School</name>
+<description>Pubpla, Khet Wang Thonglang, Bangkok</description>
+<Point><coordinates>100.614562,13.76963,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kanchanaburi Meteorological Station</name>
+<description>Ban Nuea, Mueang, Kanchanaburi</description>
+<Point><coordinates>99.536118,14.022425,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hydrogeological Group Water Resources Regional Office4 khonkaen</name>
+<description>Nai Mueang, Mueang, Khon Kaen</description>
+<Point><coordinates>102.835251,16.445329,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Municipality Office Tungsadao</name>
+<description>Wang Yen, Plaeng Yao, Chachoengsao</description>
+<Point><coordinates>101.286359,13.588554,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Laem Chabang Municipal Stadium</name>
+<description>Thung Sukhla, Si Racha, Chon buri</description>
+<Point><coordinates>100.918596,13.119214,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Health Promotion Hospital Bankhaohin</name>
+<description>Bo Win, Si Racha, Chon buri</description>
+<Point><coordinates>101.098128,13.054551,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Environment Agency Section 13, Chonburi</name>
+<description>Ban Suan, Mueang, Chon Buri</description>
+<Point><coordinates>100.977777,13.355065,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Non-Formal Education Centre, Mea Sot</name>
+<description>MaePa, MaeSot, Tak</description>
+<Point><coordinates>98.591312,16.750102,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Water reservoir</name>
+<description>Mueang, Nakhon Pathom</description>
+<Point><coordinates>100.057778,13.831944,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Municipal Waste Water Pumping Station</name>
+<description>Nai Mueang, Mueang, Nakhon Ratchasima</description>
+<Point><coordinates>102.098301,14.979726,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nakhonsawan Irrigation Project </name>
+<description>Pak Nam Pho, Mueang, Nakhon Sawan</description>
+<Point><coordinates>100.110542,15.686254,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>EGAT</name>
+<description>Bang Krua, Bang Kruai, Nonthaburi</description>
+<Point><coordinates>100.506319,13.807156,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sukhothai Thammathirat Open University</name>
+<description>Bang Phut, Pak Kret, Nonthaburi</description>
+<Point><coordinates>100.535599,13.90794,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>City Hall, Narathiwat</name>
+<description>Bang Nak, Mueang, Narathiwat</description>
+<Point><coordinates>101.823005,6.426885,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Municipality Office, Nan</name>
+<description>Nai Wiang, Mueang, Nan</description>
+<Point><coordinates>100.776359,18.788878,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chalermprakiet Hospital</name>
+<description>Huai Kon, Chaloem Phra Kiat, Nan</description>
+<Point><coordinates>101.025365,19.32238,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bangkok University Rangsit Campus</name>
+<description>Khlong Nueng, Khlong Luang, Pathum Thani</description>
+<Point><coordinates>100.605124,14.037512,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bu Yai Bai Hall Station</name>
+<description>Tha Tum, SiMahaPhot, Prachin Buri</description>
+<Point><coordinates>101.58696,13.934197,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ayutthaya Witthayalai School</name>
+<description>Pratu Chai, Phra Nakhon Si Ayutthaya</description>
+<Point><coordinates>100.565352,14.352225,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Phayao Provincial, Phayao</name>
+<description>ฺBantom, Meuang, Phayao</description>
+<Point><coordinates>99.5321,19.1215,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Municipal Health Center</name>
+<description>Talat Yai, Mueang, Phuket</description>
+<Point><coordinates>98.391318,7.884508,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>White Elephant Park</name>
+<description>Sateng, Mueang, Yala</description>
+<Point><coordinates>101.2831,6.546197,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pluakdaeng District Health Office</name>
+<description>Pluak Daeng, Pluak Daeng, Rayong</description>
+<Point><coordinates>101.212844,12.97378,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Health Promotion Hospital Maptaput</name>
+<description>Map Ta Phut, Meuang, Rayong</description>
+<Point><coordinates>101.166055,12.70862,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Agricultural Office</name>
+<description>Tha Pradu, Meuang, Rayong</description>
+<Point><coordinates>101.275875,12.671521,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Field Crop Research Center, Rayong</name>
+<description>Huai Pong, Meuang, Rayong</description>
+<Point><coordinates>101.13562,12.735114,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Government Complex, Rayong</name>
+<description>Nern Pra, Meuang, Rayong</description>
+<Point><coordinates>101.180975,12.706325,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Khai Surasinghanat</name>
+<description>Taphong, Mueang, Rayong</description>
+<Point><coordinates>101.32245,12.648576,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Environmental Office 8 ratchaburi</name>
+<description>Na Mueang, Mueang, Ratchaburi</description>
+<Point><coordinates>99.814873,13.532555,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Meteorological stations, Lampang</name>
+<description>Phra Bat, Meuang, Lampang</description>
+<Point><coordinates>99.506447,18.278251,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Health Promotion Hospital Sob Pad, Lampang</name>
+<description>Sop Pat, Mae Mo, Lampang</description>
+<Point><coordinates>99.763986,18.250747,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Health Promotion Hospital </name>
+<description>Ban Dong, Mae Mo, Lampang</description>
+<Point><coordinates>99.727046,18.419425,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Provincial Waterworks Authority Mae Moh</name>
+<description>Mae Mo, Mae Mo, Lampang</description>
+<Point><coordinates>99.659873,18.282664,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Meteorological Staions, Lamphun</name>
+<description>ฺBan Klang, Mueang, Lamphun</description>
+<Point><coordinates>99.03856,18.567179,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hat Yai Municipality</name>
+<description>Hat Yai, Songkhla</description>
+<Point><coordinates>100.48404,7.020545,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>City Hall, Satun</name>
+<description>Phiman, Mueang, Satun</description>
+<Point><coordinates>100.066212,6.624686,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Prabadang Rehabiltation Center</name>
+<description>Song Kanong, Phra Pradaeng, Samut Prakan</description>
+<Point><coordinates>100.543406,13.664023,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>South Bangkok Power Plant</name>
+<description>Bang Prong, Meuang, Samut Prakan</description>
+<Point><coordinates>100.556246,13.617982,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Residence for Dept. of Mineral Resources</name>
+<description>Talat, Phra Pradaeng, Samut Prakan</description>
+<Point><coordinates>100.53184,13.652154,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>City Hall</name>
+<description>Pak Nam, Meuang, Samut Prakan</description>
+<Point><coordinates>100.597332,13.599172,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>National Housing Authority Bangplee</name>
+<description>Bang Sao Thong, Bang Sao Thong, Samut Prakan </description>
+<Point><coordinates>100.785866,13.570333,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Highway District</name>
+<description>Om Noi, Krathum Baen, Samut Sakhon</description>
+<Point><coordinates>100.315675,13.705458,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Samut Sakhon Wittayalai School</name>
+<description>Maha Chai, Mueang, Samut Sakhon</description>
+<Point><coordinates>100.264254,13.550478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Na Phralan Police Station </name>
+<description>Na Phra Lan, Chaloem Phra Kiat, Saraburi</description>
+<Point><coordinates>100.871228,14.687391,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Khao Noi Fire Station</name>
+<description>Pak Phriao, Mueang Saraburi, Saraburi</description>
+<Point><coordinates>100.926128,14.526302,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sriaranyothai Kindergarten</name>
+<description>Aranyaprathet, Aranyaprathet, Sa Kaeo</description>
+<Point><coordinates>102.502124,13.692122,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Environment Agency Section 14, Surat Thani</name>
+<description>Makham Tia, Mueang, Surat Thani</description>
+<Point><coordinates>99.325355,9.126057,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Natural Resources and Environment Office, Chiangrai</name>
+<description>Wiang, Meuang, Chiang Rai</description>
+<Point><coordinates>99.823357,19.909242,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Maesai Health Office</name>
+<description>Wiang Phang Kham, Mae Sai, Chiang Rai</description>
+<Point><coordinates>99.883724,20.427234,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>City Hall, Chiangmai</name>
+<description>Chang Phueak, Meuang, Chiang Mai</description>
+<Point><coordinates>98.969661,18.840633,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Yupparaj Wittayalai School</name>
+<description>Si Phum, Meuang, Chiang Mai</description>
+<Point><coordinates>98.9881062,18.7909205,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Provincial Health Office, Loei</name>
+<description>Na An, Mueang, Loei</description>
+<Point><coordinates>101.728715,17.452765,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Meteorology Center, Phrae</name>
+<description>Na Chak, Meuang, Phrae</description>
+<Point><coordinates>100.162345,18.128928,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Natural Resources and Environment Office, Mae Hongson</name>
+<description>Chong Kham, Meuang, Mae Hong Son</description>
+<Point><coordinates>97.970999,19.304686,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
